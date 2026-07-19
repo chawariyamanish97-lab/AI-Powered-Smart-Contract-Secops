@@ -1,5 +1,7 @@
 # AI-Powered-Smart-Contract-Secops
 
+![Status](https://img.shields.io/badge/status-active_development-blue) ![Framework](https://img.shields.io/badge/framework-prompt--engineering-orange)
+
 
 # AI-Powered Smart Contract Secops
 
