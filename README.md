@@ -1,7 +1,6 @@
 # AI-Powered-Smart-Contract-Secops
 
-![Status](https://img.shields.io/badge/status-active_development-blue) ![Framework](https://img.shields.io/badge/framework-prompt--engineering-orange)
-
+![Status](https://img.shields.io/badge/status-active_development-blue) ![Framework](https://img.shields.io/badge/framework-prompt--engineering-orange)  ![License](https://img.shields.io/github/license/chawariyamanish97-lab/AI-Powered-Smart-Contract-Secops) 
 
 # AI-Powered Smart Contract Secops
 
@@ -34,4 +33,5 @@ catches, e.g. "flagged a missing zero-address check in a token transfer function
 🚧 Actively developing — prompt library and checklist templates in progress.
 
 ## Contact
-[Your preferred contact/LinkedIn/etc.]
+[chawariyamanish97@gmail.com
++91 9350919910.]
