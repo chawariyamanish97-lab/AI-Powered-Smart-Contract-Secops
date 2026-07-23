@@ -21,8 +21,13 @@ vulnerabilities before code reaches a human auditor."]
 4. **[Add more steps as your process evolves]**
 
 ## Example Findings
-[Optional: 1-2 anonymized/generic examples of the kind of issue this workflow 
-catches, e.g. "flagged a missing zero-address check in a token transfer function."]
+[As a working example of this methodology in practice, I built a test contract 
+with intentional fee-calculation bugs and used AI-assisted adversarial input 
+generation to find them — including unchecked-block overflow wraps, a missing 
+upper bound on fee percentage, and integer-division rounding-to-zero. 
+
+Full writeup with proof-of-concept tables and verified fixes: 
+[FeeCalculator Overflow Audit](findings/fee-calculator-overflow-audit.md)]
 
 ## Tech Stack
 - LLM: [Claude / ChatGPT / etc.]
